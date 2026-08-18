@@ -31,3 +31,28 @@ Se vitórias for maior ou igual a 101 = Imortal
 
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
+
+## 💻 Exemplo
+
+Vitórias: 85  
+Derrotas: 20  
+
+Saldo: 65
+
+Resultado:
+
+O Herói tem de saldo de 65 está no nível de Ouro.
+
+## 🛠️ Tecnologias e conceitos utilizados
+
+- JavaScript
+- Variáveis
+- Operadores
+- Funções
+- Estruturas condicionais
+- Objetos
+- Template Strings
+
+## 📚 Aprendizado
+
+Este projeto faz parte do meu desenvolvimento em programação e tecnologia, buscando ampliar meus conhecimentos em lógica de programação e aplicar tecnologia a projetos futuros relacionados à Engenharia, Dados e automação de processos.
